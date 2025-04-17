@@ -7,4 +7,4 @@ Este repositório foi criado com o objetivo de armazenar o projeto de TCC do Gru
 
 ## Ferramentas Utilizadas
 Linguagens: []
-Frameworks: []
+Frameworks e Bibliotecas: []
