@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Back-End do projeto de TCC do grupo \"\"",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "type": "module",
+  "scripts": {},
   "author": "Raul Tomaz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
