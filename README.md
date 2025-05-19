@@ -6,5 +6,5 @@ Este repositório foi criado com o objetivo de armazenar o projeto de TCC do Gru
 
 
 ## Ferramentas Utilizadas
-Linguagens: [JavaScript ]
+Linguagens: [JavaScript ] /n
 Frameworks e Bibliotecas: [Node.js]
